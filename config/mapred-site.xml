@@ -1,0 +1,13 @@
+<configuration>
+    <property>
+        <name>mapreduce.framework.name</name>
+        <value>yarn</value>
+    </property>
+
+    <property>
+        <name>mapreduce.jobtracker.address</name>
+        <value>172.17.0.59:50030</value>
+    </property>
+
+
+</configuration>
